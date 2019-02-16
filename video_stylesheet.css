@@ -1,0 +1,79 @@
+h1.header {
+	color: white;
+	font-family: Arial;
+	font-style: italic;
+	}
+
+body {
+	background-color: #34495E;
+	}
+
+#rcorners {
+  border-radius: 25px;
+  background: #F2F3F4;
+  padding: 20px; 
+  width: auto;
+  height: 1300px; 
+  }
+
+img.Klogo {
+	height: 125px; 
+	width: 480px;
+	}
+
+a.mainBtn {
+	background-color: #EC7063; /* #85929E */
+  	border: none;
+ 	color: white;
+ 	font-family: Helvetica;
+  	padding: 20px 40px;
+  	text-align: center;
+  	text-decoration: none;
+  	display: inline-block;
+  	font-size: 20px;
+  	margin: 40px 100px;
+  	cursor: pointer;
+  	border-radius: 12px;
+	}
+
+a.mainBtnDarken {
+	background-color: #85929E;
+  	border: none;
+ 	color: white;
+ 	font-family: Helvetica;
+  	padding: 20px 40px;
+  	text-align: center;
+  	text-decoration: none;
+  	display: inline-block;
+  	font-size: 20px;
+  	margin: 40px 100px;
+  	cursor: pointer;
+  	border-radius: 12px;
+	}
+
+p.copy {
+	color: #ffffff;
+	font-family: helvetica;
+}
+
+h1.headerVideo {
+	color: #34495E;
+	font-size: 40px;
+	font-family: Helvetica;
+	}
+
+video {
+  height: 400px;
+  width: 800px;
+}
+
+button.btn {
+  background-color: #EC7063;
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+

@@ -1,0 +1,103 @@
+body {
+	background-color: #000000;
+	}
+
+/* ------ MAIN PAGE START ------ */
+
+h1.header {
+	color: white;
+	font-family: Arial;
+	font-style: italic;
+	}
+
+#rcorners {
+  border-radius: 25px;
+  background: #F2F3F4;
+  padding: 20px; 
+  width: auto;
+  height: 645px; 
+  }
+
+img.Klogo {
+	height: 125px; 
+	width: 480px;
+	}
+
+a.mainBtn {
+	background-color: #F05353;
+  	border: none;
+ 	color: white;
+ 	font-family: Helvetica;
+  	padding: 20px 40px;
+  	text-align: center;
+  	text-decoration: none;
+  	display: inline-block;
+  	font-size: 20px;
+  	margin: 40px 100px;
+  	cursor: pointer;
+  	border-radius: 12px;
+	}
+
+img.sunDarkMode {
+	height: 45px;
+	width: 45px;
+	}
+
+img.moonDarkMode {
+	height: 45px;
+	width: 45px;
+}
+
+img.settings {
+	height: 45px;
+	width: 45px;
+	float: right;
+}
+
+/* ------ MAIN PAGE END ------ */
+
+/* ------ SETTINGS PAGE START ------ */
+
+#rcorners2 {
+  border-radius: 25px;
+  background: #D7DBDD;
+  padding: 20px; 
+  width: 400px;
+  height: 400px; 
+  }
+
+h1.settingsHeader {
+	font-family: Arial;
+	color: #B3B6B7;
+	}
+
+p.darkModeText {
+	font-family: Arial;
+	font-size: 25px;
+	float: inherit;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
